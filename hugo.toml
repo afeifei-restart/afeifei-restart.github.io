@@ -115,7 +115,7 @@ posts = "/posts/:title/"
   defaultTheme = "auto"
 
   [params.author]
-    name = "kamiertop"
+    name = "afeifei"
     avatar = "/avatar.png"
   [params.page]
     authorAvatar = true
@@ -189,7 +189,7 @@ posts = "/posts/:title/"
         avatarURL = "/avatar.png"
         typeit = true
         social = true
-        title = "欢迎大家"
+        title = "Hello"
     [params.home.posts]
         enable = true
         paginate = 10

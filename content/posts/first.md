@@ -16,7 +16,8 @@ math: true
 lightgallery: false
 summary: ""
 categories:
-  -
+  - haha
+
 # See details front matter: https://fixit.lruihao.cn/documentation/content-management/introduction/#front-matter
 # 图标支持：https://fixit.lruihao.cn/zh-cn/documentation/content-management/diagrams-support/mermaid/
 ---
@@ -24,7 +25,8 @@ categories:
 第一篇博客
 
 ```java {title="main.java"}
-public static void main() {
-
+public static void main(String[] args) {
+  System.out.println("Hello World!");
 }
+
 ```
